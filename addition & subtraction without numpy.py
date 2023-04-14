@@ -1,5 +1,3 @@
-# Muhammad Ilman Mughni
-# NPM: 2006537324
 # Program penjumlahan dan pengurangan matriks tanpa numpy
 
 print("masukkan jumlah baris dan kolom matriks 1:\n", end="")
