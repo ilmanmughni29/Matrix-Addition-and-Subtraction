@@ -1,5 +1,3 @@
-# Muhammad Ilman Mughni
-# NPM: 2006537324
 # Program penjumlahan dan pengurangan matriks dengan numpy
 
 import numpy as np
